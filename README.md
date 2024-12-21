@@ -6,3 +6,5 @@ _For this code we are using the sensor named TSOP1838 IR sensor._ the code also 
 ### pin1(signal)   -->     pin6 ;
 ### pin2(gnd)      -->     gnd ;
 ### pin3(Vcc)      -->      5V ;
+
+The path of [IR sensor code] is (CODE).
